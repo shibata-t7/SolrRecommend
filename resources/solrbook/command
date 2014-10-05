@@ -1,0 +1,2 @@
+
+curl http://192.168.33.100:8983/solr/solrbook/update --data-binary @sample-books.xml -H 'Content-type:text/xml;charset:utf-8'

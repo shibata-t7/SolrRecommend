@@ -1,0 +1,56 @@
+body {
+ text-align:center;
+}
+
+#head {
+ width:100%;
+ text-align:center;
+}
+
+#container {
+ width:100%;
+ margin-left:auto;
+ margin-right:auto;
+ text-align:left;
+}
+
+#main {
+ width:85%;
+ float:right;
+}
+
+#left {
+ width:15%;
+ float:right;
+}
+
+#foot {
+ width:100%;
+ text-align:center;
+ clear:right;
+}
+
+#searchbox {
+ margin: 10px 10px 20px 10px;
+}
+
+#pageinfo {
+ margin: 10px 10px 20px 10px;
+}
+
+#document {
+ margin: 10px 10px 20px 10px;
+}
+
+#pagination {
+ text-align:center;
+ margin: 10px 10px 20px 10px;
+}
+
+#facet {
+ margin: 10px 10px 20px 10px;
+}
+
+#facet_value {
+ margin: 0px 10px 0px 20px;
+}
